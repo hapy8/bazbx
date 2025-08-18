@@ -1,1 +1,1 @@
-this (https://github.com/hapy8/bazbx) file code is for beginner like sum the numbers 
+this code is for beginner level who just start coding and This code is for sum.
